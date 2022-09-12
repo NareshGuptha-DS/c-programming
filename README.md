@@ -16,3 +16,9 @@ perfect_square completed
 reverse a digit completed
 
 vowels completed
+
+binary search completed
+
+matrix multiplication completed
+
+reverse array completed
