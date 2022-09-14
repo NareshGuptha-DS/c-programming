@@ -22,3 +22,9 @@ binary search completed
 matrix multiplication completed
 
 reverse array completed
+
+student information completed
+
+student completed
+
+book detail completed
